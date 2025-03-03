@@ -1,0 +1,11 @@
+Metrik,2 Server,4 Server,6 Server,8 Server
+Total Pelanggan,1171,1122,1134,1143
+Pelanggan Dilayani,366,683,857,949
+Pelanggan Batal,788,435,272,191
+Persentase Keberhasilan (%),31.26,60.87,75.57,83.03
+Persentase Pembatalan (%),67.29,38.77,23.99,16.71
+Rata-rata Waktu Tunggu (menit),11.31,4.87,3.54,2.27
+Rata-rata Waktu Layanan (menit),2.61,2.62,2.64,2.72
+Rata-rata Waktu dalam Sistem (menit),13.94,7.50,6.20,4.99
+Rata-rata Panjang Antrian,26.26,17.73,14.78,9.89
+Utilisasi Server (%),99.69%,93.27%,78.68%,67.12%
