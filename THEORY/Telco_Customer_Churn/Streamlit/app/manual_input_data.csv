@@ -1,0 +1,5 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,tenure_group,Predicted_Churn,Churn_Probability
+Male,0,No,No,0,No,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0-12 months,Churn,0.764102564102564
+Male,0,No,No,0,No,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0-12 months,,
+Male,0,No,No,0,No,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0-12 months,,
+Male,0,No,No,0,No,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.0,0.0,0-12 months,,
